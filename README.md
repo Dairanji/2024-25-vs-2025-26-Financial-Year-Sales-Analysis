@@ -28,6 +28,8 @@ This Power BI project provides a comparative analysis of sales performance betwe
 * Monthly Sales Table
 * Percentage Change Analysis
 
+![MONTHLY TREND_DASHBOARD](MONTHLY%20TREND_DASHBOARD.png)
+
 ### 3. District View
 
 * District-wise Sales Comparison
