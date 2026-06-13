@@ -69,5 +69,5 @@ Sales data sourced from Microsoft Excel and transformed into interactive Power B
 
 ## Download as PDF
 
-- <a href="https://github.com/Dairanji/2024-25-vs-2025-26-Financial-Year-Sales-Analysis/blob/main/RCF_SALES_COMPARISON_FY_2024-25_VS_2025-26.pdf">Dataset</a>
+- <a href="https://github.com/Dairanji/2024-25-vs-2025-26-Financial-Year-Sales-Analysis/blob/main/RCF_SALES_COMPARISON_FY_2024-25_VS_2025-26.pdf">Download</a>
 
