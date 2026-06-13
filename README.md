@@ -37,6 +37,8 @@ This Power BI project provides a comparative analysis of sales performance betwe
 * FY-wise Sales Performance
 * Growth/Decline Percentage by District
 
+![DISTRICT VIEW_DASHBOARD](DISTRICT%20VIEW_DASHBOARD.png)
+
 ### 4. Product Mix
 
 * Product-wise Sales Analysis
@@ -44,12 +46,16 @@ This Power BI project provides a comparative analysis of sales performance betwe
 * Product Performance Cards
 * Percentage Change Tracking
 
+![PRODUCT MIX_DASHBOARD](PRODUCT%20MIX_DASHBOARD.png)
+
 ### 5. Plant Analysis
 
 * Plant-wise Sales Performance
 * Total Sales Contribution by Plant
 * Comparative FY Analysis
 * Key Plant-Level KPIs
+
+![PLANT ANALYSIS_DASHBOARD](PLANT%20ANALYSIS_DASHBOARD.png)
 
 ## Key Objectives
 
