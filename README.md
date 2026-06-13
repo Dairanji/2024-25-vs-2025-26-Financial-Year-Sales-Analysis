@@ -19,6 +19,8 @@ This Power BI project provides a comparative analysis of sales performance betwe
 * FY Sales Comparison Trend
 * Monthly Average Sales Analysis
 
+![LANDING_DASHBOARD](LANDING_DASHBOARD.png) 
+
 ### 2. Monthly Trend
 
 * Month-wise FY Comparison
